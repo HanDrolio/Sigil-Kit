@@ -1,0 +1,8 @@
+# Git commit message template (git config commit.template path/to/this)
+Title: short imperative summary
+
+Body: what/why, user-facing effects, risks.
+
+Refs: #issue-id (optional)
+Signed: ⏳♾️🛸
+Ritual: Generating please wait… / Echo out 🧱🔥♾️💧
